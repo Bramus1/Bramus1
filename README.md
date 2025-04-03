@@ -1,4 +1,4 @@
-👋 Hi, I’m @Bramus1
+👋 Hi, I’m Giuliano Taurone 
 
 👀 I’m interested in robotics, AI, and crafting innovative solutions to challenging problems.
 
